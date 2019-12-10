@@ -2,7 +2,7 @@
 
 - [x] Como fazer Deploy de uma Api Rest em Breve!
 
-1. GET, POST, PUT, DELETE através do [Postman](https://start.spring.io) que faz envio de requisições [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview) e da análise do seu retorno:
+1. GET, POST, PUT, DELETE através do [Postman](https://www.getpostman.com) que faz envio de requisições [HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview) e da análise do seu retorno:
 
 
 <img src="https://user-images.githubusercontent.com/54813775/70556691-2896c000-1b60-11ea-9738-2b91942efb63.gif"
